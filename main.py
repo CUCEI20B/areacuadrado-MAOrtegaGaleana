@@ -1,3 +1,2 @@
-b = int(input("Base: "))
-h = int(input("Altura: "))
-print("Area del triangulo: ",(b*h)//2)
+l = int(input("Lado: "))
+print("Area del cuadrado: ",l*l)
